@@ -36,5 +36,6 @@ while opcao != 5:
     else:
         print('Opção Inválida. Tente novamente.')
     print('--'*15)
+    sleep(2)
 print('Fim do programa. Te espero em breve!')
 
